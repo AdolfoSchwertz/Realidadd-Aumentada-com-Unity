@@ -27,7 +27,7 @@ No cenario, acima do Alvo foi inserido um campo plano para ser o chão, e logo s
 </p>
 
 ## 1 - Rotacionar Cubo
-Foi realizado a criação de um script para realizar o movimento e carregado no cubo
+Foi realizado a criação de um script para realizar o movimento e carregado no cubo.
 
 ```javascript
 using System.Collections;
@@ -50,7 +50,7 @@ public class rotate : MonoBehaviour
     }
 }
 ```
-Nas configurações do cubo foi inserido os eixos de rotação(X: 46; Y: 46; Z: 46)
+Nas configurações do cubo foi inserido os eixos de rotação(X: 46; Y: 46; Z: 46).
 
 <!--rotate-->
 <p>
@@ -65,7 +65,7 @@ Nas configurações do cubo foi inserido os eixos de rotação(X: 46; Y: 46; Z: 
 </p>
 
 ## 2 - Mover Cubo com teclado
-Foi criado um script colocando as setas do teclado para moverem ele na direção desejada e carregado ao cubo
+Foi criado um script colocando as setas do teclado para moverem o cubo na direção desejada e carregado nele.
 
 ```javascript
 using System.Collections;
@@ -111,8 +111,8 @@ public class movimento : MonoBehaviour
 
 ## 3 - Aplicando Gravidade
 
-Deve-se adicionar o componente physics -> rigidbody
-em seguida é selecionado os cubos e marcado a opção de "Use Gravity" 
+Deve-se adicionar o componente physics -> rigidbody, e
+em seguida é selecionado os cubos e marcado a opção de "Use Gravity". 
 
 ## Resultado
 
