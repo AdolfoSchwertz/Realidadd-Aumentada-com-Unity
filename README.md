@@ -2,7 +2,7 @@
 Projeto realizado em aula, referente a matéria de computação gráfica e tecnologias imersivas, na qual foi utilizado o Unity e o Vuforia que poossibilitam a criação de projetos utilizando AR.
 
 ## Projeto
-No projeto realizado foi feita acriação de um cubo utilizando AR em que foi colocado rotacionamento no objeto, movimento entre os eixos controlados pelo teclado e aplicação de fisica ao objeto.
+No projeto realizado foi feita a criação de um cubo utilizando AR em que foi colocado rotacionamento no objeto, movimento entre os eixos controlados pelo teclado e aplicação de fisica ao objeto.
 
 #### Primeiramente deve ser baixado e instalado o Vuforia, você pode utilizar o link a seguir
 
@@ -65,7 +65,7 @@ Nas configurações do cubo foi inserido os eixos de rotação(X: 46; Y: 46; Z: 
 </p>
 
 ## 2 - Mover Cubo com teclado
-Foi criado o script a seguir e carregado ao cubo
+Foi criado um script colocando as setas do teclado para moverem ele na direção desejada e carregado ao cubo
 
 ```javascript
 using System.Collections;
